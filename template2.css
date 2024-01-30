@@ -1,0 +1,97 @@
+/* navbar style */
+.nav{
+    width:1000px;
+    height:30px;
+    position:fixed;
+    margin-top:0px;
+    padding:20px;
+    border:1px solid white;
+    background-color:white;
+    display:flex;
+    text-align:center;
+    font-size: 15px;
+    font-style: italic;
+} 
+.right{
+    position:absolute;
+    right:34px;
+    top:20px;
+    padding:10px;
+    
+    }
+    .right a{
+        text-decoration:none;
+        padding:10px;
+        font-size:15px;
+        color:black;
+    }
+    .right a:hover{
+        background-color:gray;
+        color:black;
+    }
+.left:hover{
+    background-color:gray;
+        color:black;
+        }
+        .container img{
+            height:480px;
+            width:1050px;
+        }
+        .container span{
+        display:inline;
+        position:relative;
+        bottom:60px;
+        color:gray;
+        font-size:30px;
+        margin-left:10px;
+        }
+        .about img{
+            width:400px;
+            height:600px;
+            display:inline-block;
+        }
+        .about{
+            display:flex;
+        }
+        #one{
+            margin-left:100px;
+        }
+        /* menu style */
+        .menu{
+            display:flex;
+        }
+        .menu img{
+            width:400px;
+            height:600px;
+            display:inline-block;
+            margin-left:150px;
+           }
+       .two{
+        margin-left:40px;
+       }
+       .two p{
+        color:gray;
+       }
+       /* contact style */
+       .contact{
+        margin-left:40px;
+       }
+       form input{
+        width:900px;
+        padding:15px;
+        border-top: 0ch;
+        border-right: 0ch;
+        border-left: 0ch;
+       }
+       form button{
+        padding:10px;
+        border:1px solid gray;
+        background-color:gray;
+       }
+       .footer{
+        border:1px solid gray;
+        padding:30px;
+        background-color:gray;
+        colour:black;
+       }
+    

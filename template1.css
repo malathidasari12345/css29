@@ -1,0 +1,108 @@
+/* style for navbar */
+.navbar{
+    width:1000px;
+    height:30px;
+    position:fixed;
+    margin-top:0px;
+    padding:15px;
+    border:1px solid white;
+    background-color:white;
+    display:flex;
+    text-align:center;
+    font-size: 25px;
+    font-style: italic;
+} 
+.mid{
+margin-left:450px;
+
+}
+.right{
+    position:absolute;
+    right:34px;
+    top:20px;
+    }
+   
+     /* style for container(images) */
+    .container img{
+        height:350px;
+        width:250px;
+        padding:6px;
+    }
+    .first{
+        display:flex;
+    }
+
+    .last{
+        display:flex;
+        
+    }
+    .container h5{
+         font-size:20px;
+     }
+      .anchor a{
+        text-decoration:none;
+        width:100px;
+        padding:15px;
+        color:black;
+    }
+    /* style for anchor tags */
+     .anchor a:hover{
+        background-color:black;
+        color:white;
+    }
+     #one a{
+        background-color: black;
+        color:white;
+     }
+     #one a:hover{
+        background-color:gray;
+     }
+     /* for about section */
+     .about p{
+        text-align: center;
+        font-size:25px;
+        font-weight:bold;
+       }
+       .about img{
+        height:400px;
+        }
+      /* footer section */
+        .footer{
+            display:flex;
+            
+           }
+           #two{
+            width:600px;
+           }
+           #two a{
+            color:black;
+           }
+
+        .element span{
+            background-color:gray;
+           }
+       .footer img{
+        height:50px;
+        width:50px;
+     } 
+     .f2{
+        margin-left:200px;
+        width:600px;
+     } 
+     .f1{
+        margin-left:200px;
+        width:600px;
+
+        }  
+        .h1:hover{
+            background-color:grey;
+
+        } 
+        .h2:hover{
+            background-color:grey;
+            border:1px solid grey;
+
+        } 
+     
+       
+     
